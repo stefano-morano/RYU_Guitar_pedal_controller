@@ -11,4 +11,4 @@ NEW FEATURES:
   - The case will be smaller and 3D printed;
   - The keyboard and the speaker will be removed;
   - The code will be optimezed;
-  - Arduino Leonardo instaed of Arduino Mega for a plug-and-play midi control.
+  - Arduino Leonardo instead of Arduino Mega for a plug-and-play midi control.
