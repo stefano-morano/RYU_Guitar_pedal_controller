@@ -1,4 +1,4 @@
-# RYU Guitar pedal controller
+# RYU Arduino Guitar pedal
 Multi pedal controller for Guitar Rig. It has 4 footswitch that can be expanded by adding two more pedals. It has also 4 potentiometers for the volume control. It includes a metronome function, an lcd display and a small keyboard.
 
 Microprocessor: Arduino Mega
